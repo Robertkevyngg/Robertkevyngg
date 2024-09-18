@@ -1,8 +1,13 @@
 # Olá! Eu sou o Robert Kevyn 👋
 
 - 💻 Atualmente cursando Ciência da Computação no Instituto Mauá de Tecnologia.
-- 🌱 Estudando Java, Python, React, CSS, JS, Sql, Bash!
-- 🚀 Explorando o desenvolvimento de sites interativos e apps móveis.
+## 🛠️ Habilidades Técnicas
+
+| Linguagens      | Frameworks & Ferramentas  | Bancos de Dados |
+|-----------------|---------------------------|-----------------|
+| Java, Python    | React, Node.js, PyQt5      | MySQL, SQLite   |
+| HTML, CSS, JS   | Git, Docker, Bash          |                 |
+
 
 ## 🔧 Tecnologias & Ferramentas
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
