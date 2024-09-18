@@ -21,8 +21,10 @@
 ## 📊 GitHub Stats
 ![Robert Kevyn's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robertkevyngg&show_icons=true&theme=radical)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertkevyngg&layout=compact&theme=radical)](https://github.com/Robertkevyngg)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Robertkevyngg&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Robertkevyngg&layout=compact&theme=radical)](https://github.com/Robertkevyngg)
+
 
 
