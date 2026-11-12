@@ -1,108 +1,40 @@
-<div align="center">
+<h1 align="center">Robert Kevyn Gomes</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Robert%20Kevyn&fontSize=60&fontAlignY=35&desc=Robertkevyngg&descAlignY=55&descSize=20&animation=fadeIn" width="100%"/>
+<p align="center">
+  Estudante de Ciência da Computação no <b>Instituto Mauá de Tecnologia</b> · São Paulo<br/>
+  Cibersegurança, visão computacional e um pouco de tudo que dá pra construir com código.
+</p>
 
-</div>
-
-<div align="center">
-
-### Olá! Eu sou o Robert Gomes 👋
-
-🎓 Cursando **Ciência da Computação** no **Instituto Mauá de Tecnologia (IMT)**
-📍 São Paulo, Brasil &nbsp;|&nbsp; 🔐 Entusiasta de **Cibersegurança**
-
-</div>
+<p align="center">
+  <a href="https://portfolio-robert-gamma.vercel.app"><img src="https://img.shields.io/badge/Portfólio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio"/></a>
+  <a href="https://linkedin.com/in/robertkevyngg"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
 
 ---
 
-## 🧠 Sobre mim
+### Sobre
 
-- 💻 Estudante de **Ciência da Computação** no IMT — CIC
-- 🔐 Apaixonado por **cibersegurança**, especialmente na área da **saúde**
-- 🧩 Gosto de resolver problemas com código — de **algoritmos clássicos** até **interfaces modernas**
-- 🌱 Atualmente aprofundando conhecimentos em **Python**, **Java**, **React** e **segurança ofensiva**
-- ⚙️ Sempre explorando novas tecnologias e desafios técnicos
+Gosto de projetos que funcionam de verdade, com testes, medição e decisões documentadas. Hoje meu foco é **segurança da informação** (principalmente detecção de ameaças) e **Python** para dados e visão computacional, sem largar o front-end com React.
 
----
+### Projetos em destaque
 
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
-
----
-
-## 🔐 Interesse em Cibersegurança
-
-```
- Área de foco : Segurança em Sistemas de Saúde (Healthcare Cybersecurity)
- Estudando   : CompTIA Security+ · CEH · OSCP (no roadmap)
- Praticando  : TryHackMe · Hack The Box
- Conformidade: LGPD · ISO 27001
- Ferramentas : Kali Linux · Nmap · Metasploit
-```
-
----
-
-## 📂 Repositórios em Destaque
-
-<div align="center">
-
-| Repositório | Linguagem | Descrição |
+| Projeto | O que é | Stack |
 |---|---|---|
-| 🟠 [java-](https://github.com/Robertkevyngg/java-) | Java | Exercícios e estruturas de dados em Java |
-| 🟠 [java-exercicios-novos-](https://github.com/Robertkevyngg/java-exercicios-novos-) | Java | Novos exercícios e práticas com Java |
-| 🔵 [cell-quest-](https://github.com/Robertkevyngg/cell-quest-) | Python | Projeto em Python |
-| 🟡 [Aulas-python](https://github.com/Robertkevyngg/Aulas-python) | Jupyter Notebook | Cadernos de aula com NumPy e Matplotlib |
-| 🟡 [React-test-](https://github.com/Robertkevyngg/React-test-) | JavaScript | Testes e experimentos com React |
-| ✨ [Novo-Site-react-fundo-animado-](https://github.com/Robertkevyngg/Novo-Site-react-fundo-animado-) | React | Site com fundo animado em React |
+| [**IA-Teste**](https://github.com/Robertkevyngg/IA-Teste) | IDS em duas camadas: LightGBM para ataques conhecidos e autoencoder para anomalias, otimizado para baixa taxa de falso positivo. Treinado no CIC-IDS2017 corrigido, com validação em laboratório (Kali) em andamento. | Python · LightGBM · PyTorch · FastAPI |
+| [**camera-movimento-termica**](https://github.com/Robertkevyngg/camera-movimento-termica) | Detecção de movimento em tempo real e simulação de câmera térmica com a webcam. App desktop, painel web e gravação até 1080p60. 79 testes. | Python · OpenCV · FastAPI · Tkinter |
+| [**neonflap**](https://github.com/Robertkevyngg/neonflap) | Jogo synthwave para Android, portado de Pygame para Godot 4, com APK gerado pelo GitHub Actions. | Godot · GDScript · CI |
+| [**portfolio-robert**](https://github.com/Robertkevyngg/portfolio-robert) | Meu portfólio, com pré-renderização e animações. [Ver online ↗](https://portfolio-robert-gamma.vercel.app) | React · Vite · Tailwind · GSAP |
 
-</div>
+### Stack
 
----
----
+- **Linguagens:** Python · Java · JavaScript · GDScript · HTML/CSS
+- **Dados e ML:** pandas · NumPy · scikit-learn · LightGBM · PyTorch · OpenCV
+- **Web:** React · Vite · Tailwind · FastAPI
+- **Segurança:** Kali Linux · Nmap · Hydra · Metasploit · tcpdump
+- **Ferramentas:** Git · GitHub Actions · Linux · Docker
 
-## 🎯 Objetivos Atuais
+### Agora
 
-- [ ] 🔐 Obter a certificação **CompTIA Security+**
-- [ ] 🐍 Aprofundar em **Python para análise de dados e segurança**
-- [ ] ⚛️ Evoluir em **React** e desenvolvimento front-end
-- [ ] 🏥 Construir projetos na interseção de **TI e saúde**
-- [ ] 🧠 Completar labs no **TryHackMe** e **Hack The Box**
-
----
-
-## 🌐 Contato
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Robertkevyngg-181717?style=for-the-badge&logo=github)](https://github.com/Robertkevyngg)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Robert%20Gomes-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/robertkevyngg)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" width="100%"/>
-
-*"O conhecimento é a melhor arma — especialmente na cibersegurança."* 🔐
-
-</div>
+- Estudando para a **CompTIA Security+**
+- Fechando os resultados do IDS em tráfego de laboratório
+- Praticando no **TryHackMe** e no **Hack The Box**
